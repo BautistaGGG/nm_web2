@@ -12,7 +12,7 @@ export default module.exports = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
         nicoPortada: "url('./assets/Nico_Marban_portada.jpg')",
-        nutricionPortada: "url('./src/assets/nutricion/portada_Nico_nutricion.jpg')",
+        nutricionPortada: "url('./assets/nutricion/portada_Nico_nutricion.jpg')",
         // nicoPortada: "url('./assets/pic_uno.png')",
         // nicoPortada: "url('./assets/pic_dos.png')",
         planesUno: "url('./assets/Nico_tarjeta_1.jpg')",
