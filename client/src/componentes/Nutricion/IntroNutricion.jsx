@@ -1,4 +1,4 @@
-import introNutri from "../../assets/nutricion/portada_Nico_nutricion.jpg";
+/* import introNutri from "../../assets/nutricion/portada_Nico_nutricion.jpg"; */
 
 function IntroNutricion() {
   return (

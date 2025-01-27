@@ -14,10 +14,10 @@ export default function Home() {
   // Renderizando todos los componentes de la landing en un solo lugar.
   return (
     <div>
-      <Navbar /> 
+      <Navbar />
       <Header />
       {/* Establecer un descuento que termina el 31 de diciembre de 2024 a las 23:59 */}
-      <CountdownTimer targetDate={new Date('2024-12-31T23:59:59')}/>
+      <CountdownTimer targetDate={new Date("2025-02-30T23:59:59")} />
       <Intro />
       <Transformaciones />
       <MuestraApp />
