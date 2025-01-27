@@ -25,11 +25,11 @@ function Testimonios() {
 
             <path d="M6 0H2a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h4v1a3 3 0 0 1-3 3H2a1 1 0 0 0 0 2h1a5.006 5.006 0 0 0 5-5V2a2 2 0 0 0-2-2Zm10 0h-4a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h4v1a3 3 0 0 1-3 3h-1a1 1 0 0 0 0 2h1a5.006 5.006 0 0 0 5-5V2a2 2 0 0 0-2-2Z" />
           </svg> */}
-            <img
+            {/* <img
               className="w-16 h-16 mb-3 mx-auto rounded-full"
               src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/michael-gouch.png"
               alt="profile picture"
-            ></img>
+            ></img> */}
             <blockquote>
               <p className="text-base italic font-medium text-gray-900 dark:text-white">
                 "Luego de haber sido intervenido quirurgicamente, conoci a
@@ -63,11 +63,11 @@ function Testimonios() {
           >
             <path d="M6 0H2a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h4v1a3 3 0 0 1-3 3H2a1 1 0 0 0 0 2h1a5.006 5.006 0 0 0 5-5V2a2 2 0 0 0-2-2Zm10 0h-4a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h4v1a3 3 0 0 1-3 3h-1a1 1 0 0 0 0 2h1a5.006 5.006 0 0 0 5-5V2a2 2 0 0 0-2-2Z" />
           </svg> */}
-            <img
+            {/* <img
               className="w-16 h-16 mb-3 mx-auto rounded-full"
               src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/michael-gouch.png"
               alt="profile picture"
-            ></img>
+            ></img> */}
             <blockquote>
               <p className="text-base italic font-medium text-gray-900 dark:text-white">
                 "Hace 9 meses que entreno con Nico y, si tuviese que resumir en
@@ -100,11 +100,11 @@ function Testimonios() {
           >
             <path d="M6 0H2a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h4v1a3 3 0 0 1-3 3H2a1 1 0 0 0 0 2h1a5.006 5.006 0 0 0 5-5V2a2 2 0 0 0-2-2Zm10 0h-4a2 2 0 0 0-2 2v4a2 2 0 0 0 2 2h4v1a3 3 0 0 1-3 3h-1a1 1 0 0 0 0 2h1a5.006 5.006 0 0 0 5-5V2a2 2 0 0 0-2-2Z" />
           </svg> */}
-            <img
+            {/* <img
               className="w-16 h-16 mb-3 mx-auto rounded-full"
               src="https://flowbite.s3.amazonaws.com/blocks/marketing-ui/avatars/michael-gouch.png"
               alt="profile picture"
-            ></img>
+            ></img> */}
             <blockquote>
               <p className="text-base italic font-medium text-gray-900 dark:text-white">
                 "Mi experiencia fue muy positiva. Antes de empezar mi
